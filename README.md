@@ -1,6 +1,6 @@
 # Ciphers
 
-![Project Logo](assets/banner.jpeg)
+![Project Logo](/Assets/banner.jpeg)
 
 Welcome to the **Ciphers Repository**! This repository contains a collection of cryptographic cipher implementations, both **symmetric** and **asymmetric** encryption algorithms. It serves as a comprehensive resource for those learning about cryptography or looking for references when implementing these algorithms in real-world scenarios.
 

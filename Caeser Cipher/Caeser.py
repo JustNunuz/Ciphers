@@ -12,17 +12,3 @@ length = len(holder)
 for element in holder:
         if holder[element] in letters[element]:
             print(holder[element], "in position", letters.index(element))
-        #print(x,holder[x])
-    
-
-
-    
-# Get user input into the variable
-#list=word.split()
-# Split it into an array
-
-
-
-#print(list[0])
-
-
